@@ -8,7 +8,7 @@ Live resume editor.
 ## 🖥️ Tech Stack
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![tailwindcss](https://img.shields.io/badge/Tailwind--CSS-0F172A?style=for-the-badge&logo=taileindcdd&logoColor=61DAFB)&nbsp;
+![tailwindcss](https://img.shields.io/badge/Tailwind--CSS-20232A?style=for-the-badge&logo=taileindcss&logoColor=61DAFB)&nbsp;
 
 Extras: React-To-Print
 
